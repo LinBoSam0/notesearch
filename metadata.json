@@ -1,0 +1,6 @@
+{
+  "name": "AI Class Note Organizer",
+  "description": "Transforms class transcripts, subtitles, or notes into structured, high-value study materials efficiently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
